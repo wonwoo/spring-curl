@@ -1,0 +1,4 @@
+{{{logo}}}
+:: Spring Curl Example ::  {{serviceUrl}}
+
+{{example}}
